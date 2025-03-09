@@ -60,7 +60,7 @@ MistralOCR/
 
 1. 克隆仓库:
    ```
-   git clone https://github.com/yourusername/mistral-ocr-plugin.git
+   git clone https://github.com/chunzhimoe/mistral.ai_umi_plugin
    ```
 2. 进行您的修改
 3. 通过将`MistralOCR`文件夹复制到Umi-OCR插件目录来测试插件
