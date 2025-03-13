@@ -4,7 +4,7 @@
 
 ## 安装说明
 
-1. 从[Releases](https://github.com/yourusername/mistral-ocr-plugin/releases)页面下载最新版本
+1. 从[Releases](https://github.com/chunzhimoe/mistral.ai_umi_plugin/releases)页面下载最新版本
 2. 将整个`MistralOCR`文件夹放入Umi-OCR的插件目录：
    - Windows: `%APPDATA%\Umi-OCR\plugins\`
    - Linux: `~/.config/Umi-OCR/plugins/`
